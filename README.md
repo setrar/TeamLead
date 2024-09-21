@@ -1,3 +1,57 @@
+# Personal Development and Team Leadership
+
+Prof: PRIOR Andrew
+
+## Abstract
+
+This course consists of three essential elements:
+
+- 'Know yourself' - understanding the drivers of your behavior. This is the basis of any personal development and is critical for developing effective interaction with others whether as a team member or as a team leader.
+- 'Working with others' - building on the self-knowledge mentioned above, this core element allows you to explore, understand, and practice ways of working with others that are both more enjoyable and more effective. This is critical given that almost everyone works as part of a team.
+- 'What's next?' - building on both the above sections, this element helps you take the next steps in your career: setting objectives, selecting target organizations, applying for jobs, and effective interviewing.
+
+`Teaching and Learning Methods:` Lectures, team exercises, and presentations.
+
+`Course Policies:` On-time class attendance is mandatory; three unapproved absences mean exclusion.
+
+## Bibliography
+
+##### Books:
+
+- Book: MBTI Type 1 (provided free in class)
+- Book: GOLEMAN D. Emotional Intelligence - why it can matter more than IQ. Random House Publishing, 2005, 352p. (recommended but not mandatory)
+
+##### Online materials provided, including:
+
+- Class presentations
+- Online video specially created for this course
+
+## Requirements
+
+Curiosity about how, and why, you operate in the real world, and what you can do about it.
+
+## Description
+
+This is a highly interactive course, where you will often work in teams to explore or practice the ideas developed in the course. Unlike in previous years, there will be no major central project, though a whole series of, mainly, in-class activities will take on the role of mini-projects to achieve the objective of instilling leading-edge team-working skills - a key component of employment success anywhere in the world.
+
+`Learning Outcomes:`
+
+- Be able to understand, and explain, your behavior, especially about others
+- Be able to understand, and improve consistently your effectiveness in a team, and your team's effectiveness as a team leader.
+- Be able to articulate, rationally, your next career/life steps, and be able to demonstrate effective personal branding, and job application strategies.
+
+`Nb hours:` 42.00
+
+`Evaluation:`
+
+- Team activities and presentations (20% of the final grade),
+- Participation (20% of the final grade),
+- Personal tasks, quizzes, etc. (50% of the final grade),
+- On-time class attendance and (end-of-class) Learning Log (10% of the final grade). 
+
+
+
+
 # Introduction to management
 
 Prof: POPE Kenneth
