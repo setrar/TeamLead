@@ -103,7 +103,7 @@ This is, as far as possible, an interactive course. You will often work in small
 - Exercises and presentations (20% of the final grade) - team and individual
 - On-time class attendance and (end-of-class) Learning Log (10% of the final grade)
 
-Reviewd 
+Reviewed 
 
 * Team-tasks (charter, vision etc.) 20%
 * Participation in class & team     20%
