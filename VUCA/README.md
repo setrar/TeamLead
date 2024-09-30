@@ -1,3 +1,0 @@
-
-
-[VUCA](https://en.wikipedia.org/wiki/VUCA) is an acronym based on the leadership theories of Warren Bennis and Burt Nanus, to describe or to reflect on the `volatility`, `uncertainty`, `complexity` and `ambiguity` of general conditions and situations.[1][2] The U.S. Army War College introduced the concept of VUCA in 1987, to describe a more complex multilateral world perceived as resulting from the end of the Cold War.[3] More frequent use and discussion of the term began from 2002.[4][need quotation to verify] It has subsequently spread to strategic leadership in organizations, from for-profit corporations[5][6] to education.[7][8][9]
