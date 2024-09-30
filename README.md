@@ -102,3 +102,10 @@ This is, as far as possible, an interactive course. You will often work in small
 - Class participation (20% of the final grade)
 - Exercises and presentations (20% of the final grade) - team and individual
 - On-time class attendance and (end-of-class) Learning Log (10% of the final grade)
+
+Reviewd 
+
+* Team-tasks (charter, vision etc.) 20%
+* Participation in class & team     20%
+* Participation tasks (EQ, MBTI etc.) 10%
+* Final Exam (50% of the final grade)
