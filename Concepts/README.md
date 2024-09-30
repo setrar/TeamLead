@@ -1,0 +1,3 @@
+- [VUCA]()
+- [Theory_U](https://en.wikipedia.org/wiki/Theory_U)
+- [Dialogic](https://en.wikipedia.org/wiki/Dialogic)
